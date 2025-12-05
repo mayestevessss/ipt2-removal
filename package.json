@@ -18,5 +18,10 @@
         "sass": "^1.32.13",
         "sass-loader": "^8.0.2",
         "vue-template-compiler": "^2.6.12"
+    },
+    "dependencies": {
+        "@babel/preset-react": "^7.28.5",
+        "react": "^19.2.1",
+        "react-dom": "^19.2.1"
     }
 }
