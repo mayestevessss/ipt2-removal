@@ -7,6 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Product Inventory Manager
+
+A modern Product Inventory Manager built with **Laravel 7** backend and **React.js** frontend.
+
+### Technology Stack
+- **Backend**: Laravel 7 (PHP)
+- **Frontend**: React.js with Hooks
+- **Styling**: SCSS
+- **Database**: MySQL
+- **Build Tool**: Laravel Mix
+
+### Features
+- ✅ View product list with categories
+- ✅ Add new products
+- ✅ Update existing products
+- ✅ Delete products with confirmation modal
+- ✅ Search/filter products by name
+- ✅ Real-time inventory statistics
+- ✅ Responsive design
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
